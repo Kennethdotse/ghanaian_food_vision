@@ -93,4 +93,4 @@ Although the model isn’t perfect (about 83% accuracy overall), it performs wel
 ![Sample Ghanaian Food](image.png) 
  - linkedIn article explaining the processes thoroughly: https://www.linkedin.com/pulse/ghanaian-food-vision-model-kenneth-kwame-dotse-rdwyf/?trackingId=RhxDebxDSNeU9Qyd%2BfzX7w%3D%3D 
 
- - huggingface space: https://huggingface.co/spaces/Kennethdot/Food_vision?logs=container 🤗
+ - huggingface space: https://huggingface.co/spaces/Kennethdot/Food_vision 🤗
