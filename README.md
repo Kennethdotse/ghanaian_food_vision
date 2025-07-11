@@ -35,7 +35,7 @@ Images source: https://huggingface.co/datasets/devkyle/ghanaian-food-dataset?lib
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/ghanaian-food-classifier.git
+git clone https://github.com/yourusername/ghanaian-food-vision.git
 cd ghanaian-food-vision
 ```
 
